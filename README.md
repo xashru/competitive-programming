@@ -1,5 +1,5 @@
 # Competitive-Programming
-The library contains    
+The library contains implementation of    
 - Number theory algorithms: gcd, lcm, sieve, prime number test
 - Graph algorithms: bipartite matching, connected components, topological sorting, cycle detection, strongly connected components, articulation points and bridge, biconnected components, minimum spanning trees (kruskal and prim), bellman-ford, floyed-warshall 
 - String search: KMP, Aho Corasick, Rabin-Karp
